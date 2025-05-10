@@ -1,0 +1,4 @@
+kaggle data sets é um site que contém dados para importação e trabalhos no Pandas.
+Você baixa os arquivos csv.
+
+Outro site importante são os dados abertos, portal dados abertos do governo.
